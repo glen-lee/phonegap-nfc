@@ -1,3 +1,5 @@
+* Forked from chariotsolutions/phonegap-nfc 1.2.1 and modified as needed to keep up with the latest android and ios SDKs.
+
 PhoneGap NFC Plugin
 ==========================
 
